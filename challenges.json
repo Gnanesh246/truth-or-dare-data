@@ -1,0 +1,818 @@
+[
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your biggest fear?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do 10 jumping jacks.",
+    "Instructions": "Stand up, jump with your arms and legs spreading wide, then return to the starting position. Repeat 10 times!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most embarrassing moment?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Sing a song loudly.",
+    "Instructions": "Pick any song you like, and sing it out loud, no matter how silly or off-key. Extra points for enthusiasm!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What secret have you never told anyone?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Dance without music for 30 seconds.",
+    "Instructions": "Let your body move to its own rhythm for 30 seconds. No music allowed – just let loose and have fun!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "Who was your first crush?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Imitate your favorite animal for 20 seconds.",
+    "Instructions": "Choose your favorite animal and act like it for 20 seconds. Use sounds, gestures, or movements that represent that animal."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your guilty pleasure?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Recite the alphabet backwards.",
+    "Instructions": "Start with \"Z\" and work your way down to \"A\" without any mistakes. It's harder than it sounds!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is the weirdest thing you’ve ever done in public?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do your best celebrity impression.",
+    "Instructions": "Pick a celebrity you know well, and do your best impression of them. Try to mimic their voice, mannerisms, and catchphrases."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "Have you ever lied to get out of trouble?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Speak in a funny accent for one minute.",
+    "Instructions": "Choose any accent and keep speaking in that accent for one full minute. Bonus points if the accent sounds convincing!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your biggest regret?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do 15 squats.",
+    "Instructions": "Stand with feet shoulder-width apart, bend your knees and lower your body as if sitting in a chair, then return to standing. Do this 15 times."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your secret talent?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Juggle imaginary balls for 30 seconds.",
+    "Instructions": "Pretend you're juggling two or more balls, keeping them in the air for 30 seconds. Make sure to look as serious as possible!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite childhood memory?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do a silly dance.",
+    "Instructions": "Dance however you feel, but make it silly. Get creative with the moves!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most awkward thing you have ever said to someone you liked?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Balance a book on your head for 20 seconds.",
+    "Instructions": "Place a book (or any object) on your head, and try to balance it for 20 seconds without it falling off."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "Who is the one person you regret losing contact with?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Hop on one foot for 30 seconds.",
+    "Instructions": "Stand on one foot and hop up and down for 30 seconds. Try not to lose your balance!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is something you’ve done that you would never admit publicly?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Tell a joke and then laugh at it.",
+    "Instructions": "Share a joke with the group, and after telling it, laugh like it’s the funniest thing you've ever heard!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most embarrassing habit?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do an impression of your favorite cartoon character.",
+    "Instructions": "Choose a cartoon character and act like them for 30 seconds. Mimic their voice, personality, and actions!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is a secret you’ve kept from your family?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Perform a dramatic reading of a random text message.",
+    "Instructions": "Pick a random text message from your phone and read it dramatically as if you're performing a scene from a play."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is something you would change about your personality?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do 20 sit-ups.",
+    "Instructions": "Lie on your back, knees bent, feet flat on the floor. Lift your upper body toward your knees, then lower it back down. Do this 20 times."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most childish thing you still do?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Freestyle rap about a random object for 30 seconds.",
+    "Instructions": "Pick a random object in the room, and freestyle rap about it for 30 seconds. Make it as creative as possible!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "Have you ever had a crush on a teacher?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Mimic your favorite movie scene.",
+    "Instructions": "Choose a scene from your favorite movie and reenact it as best as you can. Don’t forget the dramatic flair!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most unusual dream?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Dance like no one is watching for 30 seconds.",
+    "Instructions": "Let your body go wild and dance without holding back. Imagine no one’s there, and just enjoy the moment!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your biggest fear in relationships?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Speak only in questions for one minute.",
+    "Instructions": "For the next 60 seconds, only speak in questions. Try to hold a conversation using only interrogative sentences!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is one thing you wish you could say to your ex?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Do an impression of someone in the room.",
+    "Instructions": "Pick someone in the room and do your best impression of them, from their voice to their mannerisms!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most awkward romantic encounter?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Perform 10 push-ups.",
+    "Instructions": "Get in the push-up position and lower your body to the ground, then push yourself back up. Do this 10 times."
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is something you wish your parents knew about you?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Sing a popular song in a silly tone.",
+    "Instructions": "Choose a well-known song and sing it in the silliest voice you can come up with. Bonus for exaggerated facial expressions!"
+  },
+  {
+    "Category": "General",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most embarrassing social media post?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "General",
+    "Type": "Dare",
+    "Truth / Dare": "Deliver a dramatic monologue for 30 seconds.",
+    "Instructions": "Pick a dramatic scene from a play or movie, and deliver it as seriously and dramatically as possible. Feel the emotion!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the most embarrassing thing that's ever made you laugh?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Perform your best silly dance.",
+    "Instructions": "Get up and dance however you want! Move your body in the silliest way possible, making sure to exaggerate every move. Let loose and have fun with it!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the strangest thing you've ever done just for fun?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Sing your favorite song in a silly voice.",
+    "Instructions": "Choose your favorite song and sing it in a silly voice—think high-pitched, deep, or funny accents. Make it as goofy as possible!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the funniest prank you've ever pulled?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Pretend you're a clown and honk an imaginary horn.",
+    "Instructions": "Act like a clown for the next 30 seconds! Find an invisible horn and honk it like you're entertaining a crowd, adding lots of exaggerated facial expressions and goofy gestures."
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "Have you ever laughed so hard you cried? When and why?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Do your best impression of a cartoon character for one minute.",
+    "Instructions": "Pick your favorite cartoon character and imitate them for one full minute! Try to copy their voice, mannerisms, and catchphrases as accurately (or hilariously) as you can."
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's your most ridiculous habit that cracks you up?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Speak only in rhymes for one minute.",
+    "Instructions": "For the next minute, everything you say must rhyme! Challenge yourself to keep up with the rhyming words, no matter how silly they sound!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the funniest thing that happened at a party?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Act out a slapstick comedy scene for 30 seconds.",
+    "Instructions": "Pretend you're in a classic slapstick comedy scene! For 30 seconds, exaggerate your movements—trip over something invisible, act surprised, or pretend to get caught in something. Make it as goofy as possible!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the silliest rumor you've heard about yourself?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Imitate an animal and let everyone guess which one.",
+    "Instructions": "Choose an animal and act it out without saying a word! Use your body, sounds, and expressions to let everyone guess which animal you're pretending to be. Be as funny and creative as possible!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the most absurd thing you believed as a child?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Tell a joke while doing a silly walk across the room.",
+    "Instructions": "Tell your best joke while walking across the room in the silliest way possible! Whether you're waddling like a penguin, hopping like a kangaroo, or moving like a robot, make sure the walk is just as funny as your joke!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "Have you ever been caught doing something hilariously awkward?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Perform a one-minute stand-up comedy routine.",
+    "Instructions": "Time to be a comedian! Do a stand-up comedy routine for one full minute. Tell funny stories, jokes, or observations, and try to make everyone laugh with your best punchlines!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the weirdest food combination you've tried just for a laugh?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Eat a spoonful of a condiment with a straight face.",
+    "Instructions": "Grab a spoonful of any condiment—mustard, ketchup, mayonnaise—and eat it with a completely serious face! No smiling, no laughing—just act like it’s the most normal thing ever."
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the funniest dream you've ever had?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Pretend you're a news reporter delivering a ridiculously funny story.",
+    "Instructions": "Pretend you're a news reporter and deliver the most ridiculous, hilarious story you can think of. Speak seriously, like it's breaking news, but make the content completely absurd and funny!"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Truth",
+    "Truth / Dare": "What's the most bizarre outfit you've ever worn?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Funny",
+    "Type": "Dare",
+    "Truth / Dare": "Model an outrageous outfit from your closet on an imaginary runway.",
+    "Instructions": "Pick out the craziest outfit you can find in your closet and model it like you’re on a runway! Walk confidently, strike a pose at the end, and act like you're wearing the most fashionable outfit ever."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite cartoon character and why?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Do your best impression of that character for 30 seconds.",
+    "Instructions": "Pick any fun character from your favorite show or movie, and imitate them for 30 seconds! Whether it’s their voice, actions, or personality, give it your best shot and make it as funny as possible."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is the funniest joke you know?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Tell your joke with lots of silly sounds.",
+    "Instructions": "Tell a joke, but here's the twist—you have to add funny sounds while telling it! Use silly noises like boing, honk, or beep as you deliver your punchline. Make sure to be extra dramatic!"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "If you could be any animal for a day, what would you be?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Pretend to be that animal for 30 seconds.",
+    "Instructions": "Choose any animal and act like it for the next 30 seconds! Use your body and sounds to imitate that animal, whether it’s hopping like a bunny, roaring like a lion, or slithering like a snake."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite family tradition?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Show us a silly dance that reminds you of your family.",
+    "Instructions": "Think of a funny dance that you’ve seen your family do and show us! It can be silly moves that remind you of family get-togethers or just something you think is funny and unique to your family’s style."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite thing to do with your friends?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Sing a short song about friendship.",
+    "Instructions": "Sing a short, fun song about friendship! Make it upbeat and catchy—show how much you value your friends with your silly, happy tune."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite subject in school and why?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Pretend to teach a funny mini lesson about that subject.",
+    "Instructions": "Pretend to be the teacher for a mini lesson on something random—whether it's teaching about dinosaurs, space, or your favorite food! Keep it fun and silly, adding jokes and funny explanations."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "If you had a magic wand, what would you change in the world?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Wave your arms like a magician and say a magic word.",
+    "Instructions": "Pretend you’re a magician casting a spell! Wave your arms in the air like you're performing a magic trick and shout your favorite magic word, like “Abracadabra!” or “Hocus Pocus!”"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is the best gift you have ever received?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Give a big smile and a thumbs up to everyone.",
+    "Instructions": "Smile as big as you can and give a thumbs up to everyone in the room! Make sure your smile is as big and goofy as possible!"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "Who is your hero, and why do you look up to them?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Act out a short scene showing why they are your hero.",
+    "Instructions": "Act out a short scene that shows why someone in your life is your hero! Whether it’s a parent, sibling, or friend, create a fun little scene that shows what makes them amazing."
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is your favorite outdoor game to play?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Demonstrate your favorite move from that game.",
+    "Instructions": "Pick your favorite move from any game you love (like a fun dance move, sports move, or video game action) and demonstrate it to everyone! Make sure to show how it’s done and add some extra flair!"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What makes you laugh the most?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Tell a funny story using your silliest voice.",
+    "Instructions": "Tell a funny, made-up story using the silliest voice you can think of! It could be high-pitched, low, raspy, or even like a cartoon character—just make sure it’s funny and over the top!"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Truth",
+    "Truth / Dare": "What is one thing you are really proud of?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Kids/Family-Friendly",
+    "Type": "Dare",
+    "Truth / Dare": "Strike a superhero pose and say, 'I am awesome!'",
+    "Instructions": "Strike your best superhero pose—hands on hips, chest out, or flying through the air—and then say, “I am awesome!” Make sure to shout it with confidence and energy like you’re a true hero!"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Truth",
+    "Truth / Dare": "Tell us about a personal challenge that changed your perspective and how you overcame it.",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Dare",
+    "Truth / Dare": "Hold a plank position for one minute.",
+    "Instructions": "Get into a plank position and hold it for one full minute! Keep your body straight, core tight, and focus on staying strong. Can you make it the full minute without dropping? Let’s see!"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Truth",
+    "Truth / Dare": "What is one fear you’re determined to conquer, and why?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Dare",
+    "Truth / Dare": "Do 30 burpees in under one minute.",
+    "Instructions": "Time yourself and do 30 burpees as quickly as you can—all in under one minute! It’s a full-body workout, so keep your energy up and push yourself to finish strong!"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Truth",
+    "Truth / Dare": "Describe the toughest decision you’ve ever made and the lesson you learned from it.",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Dare",
+    "Truth / Dare": "Perform 20 push-ups while reciting a tongue twister.",
+    "Instructions": "Do 20 push-ups while saying a tongue twister as clearly as you can! Try saying something like “She sells seashells by the seashore” while powering through each push-up. Can you get both the push-ups and the tongue twister right?"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Truth",
+    "Truth / Dare": "What is a personal weakness you are actively working to improve, and how do you plan to overcome it?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Dare",
+    "Truth / Dare": "Balance on one leg for 60 seconds while naming five countries.",
+    "Instructions": "Stand on one leg for 60 seconds and name five countries! Try to keep your balance steady while you list them, and don’t forget to keep your foot off the ground. Ready for the challenge?"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most challenging goal you have set for yourself, and what steps are you taking to achieve it?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Challenging",
+    "Type": "Dare",
+    "Truth / Dare": "Recite the alphabet backwards as fast as you can.",
+    "Instructions": "Challenge your brain and recite the alphabet backward as quickly as you can! Start from Z and go all the way to A—can you do it without stumbling? Speed and accuracy are key!"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most embarrassing thing you have ever done in public?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Dare",
+    "Truth / Dare": "Re-enact that moment with exaggerated gestures.",
+    "Instructions": "Think of a moment that embarrassed you, and now re-enact it with over-the-top, exaggerated gestures! Make the moment as dramatic and silly as possible, showing everyone just how embarrassed you felt in that situation."
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Truth",
+    "Truth / Dare": "Have you ever had an awkward moment at school that still makes you cringe? Describe it.",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Dare",
+    "Truth / Dare": "Pretend to be that embarrassed version of yourself for 30 seconds.",
+    "Instructions": "Recall an embarrassing moment, and for the next 30 seconds, act like you’re in that moment, feeling embarrassed. Use awkward body language, blush, and try to stay in character—get into that feeling and show it!"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most awkward thing you have ever said in front of a crush?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Dare",
+    "Truth / Dare": "Act out the moment and then apologize dramatically.",
+    "Instructions": "Pick an embarrassing moment and act it out, but once it’s done, apologize dramatically to everyone around you! Think of a grand, over-the-top apology like you’re in a soap opera or a big movie—make it as funny as possible!"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Truth",
+    "Truth / Dare": "What is your most embarrassing habit that you wish you could hide?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Dare",
+    "Truth / Dare": "Perform that habit in a humorous way for 30 seconds.",
+    "Instructions": "Choose a habit you do when you’re embarrassed (like covering your face, hiding, or looking down), and perform it in a funny, exaggerated way for 30 seconds. Add some humor to make it more ridiculous!"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most embarrassing text or message you've ever sent by accident?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Embarrassing",
+    "Type": "Dare",
+    "Truth / Dare": "Dramatically read that text aloud in a funny voice.",
+    "Instructions": "Take a text (maybe an embarrassing message, an old text, or a funny one) and read it aloud in a hilarious voice—whether it’s a high-pitched voice, a robot voice, or something completely goofy! Add extra drama to make it sound more embarrassing!"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Truth",
+    "Truth / Dare": "What's the most adventurous thing you've done in a romantic encounter?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Dare",
+    "Truth / Dare": "Perform your best seductive dance for 30 seconds.",
+    "Instructions": "Let loose and perform your most seductive dance moves for the next 30 seconds. Be confident and have fun with it—remember, it's all about playful charm and confidence, not perfection!"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Truth",
+    "Truth / Dare": "What's a secret fantasy you've never shared with anyone?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Dare",
+    "Truth / Dare": "Whisper your secret fantasy to the person on your right.",
+    "Instructions": "Lean in close and whisper a lighthearted, playful secret fantasy to the person on your right. Make sure to keep it fun and cheeky, while staying within a comfortable, playful zone!"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Truth",
+    "Truth / Dare": "What is the most embarrassing moment you've experienced on a date?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Dare",
+    "Truth / Dare": "Recreate that moment with a dramatic, humorous re-enactment.",
+    "Instructions": "Think of a funny or flirtatious moment from the past, and re-enact it dramatically for everyone. Go all out with exaggerated gestures and facial expressions, making it both dramatic and humorous!"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Truth",
+    "Truth / Dare": "What's one thing you wish you had done differently in your love life?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Dare",
+    "Truth / Dare": "Share an improvised, flirtatious compliment with the group.",
+    "Instructions": "Improvise a flirty compliment and share it with the group. Be charming, witty, and a bit playful, while keeping it lighthearted and fun. Let your creative side shine!"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Truth",
+    "Truth / Dare": "What's the wildest, most unforgettable night you've ever had?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Adults",
+    "Type": "Dare",
+    "Truth / Dare": "Strike a confident pose and deliver your most charming smile for 30 seconds.",
+    "Instructions": "Stand tall, strike a confident pose, and flash your most charming smile for 30 seconds! Hold the pose and smile as if you’re posing for a photo shoot—confidence is key!"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Truth",
+    "Truth / Dare": "What was the moment you realized you were in love with your partner?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Dare",
+    "Truth / Dare": "Recreate that moment by sharing a heartfelt gesture or a loving look.",
+    "Instructions": "Think of a sweet or loving moment you shared with your partner. Now, recreate that moment by offering a heartfelt gesture or giving them a loving, meaningful look. Let your eyes and body language say what words can't."
+  },
+  {
+    "Category": "Couples",
+    "Type": "Truth",
+    "Truth / Dare": "What is one thing you love most about your partner?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Dare",
+    "Truth / Dare": "Give your partner a sincere compliment along with a warm hug.",
+    "Instructions": "Look your partner in the eyes and give them a genuine, heartfelt compliment. After that, wrap them in a warm, affectionate hug. Make sure the compliment comes from the heart and is something that makes them feel special!"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Truth",
+    "Truth / Dare": "What's your favorite memory together, and why does it stand out?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Dare",
+    "Truth / Dare": "Share that memory with passion and give your partner a gentle kiss to celebrate it.",
+    "Instructions": "Share a cherished memory with your partner, speaking passionately and with fondness. After recounting the memory, give them a gentle kiss to celebrate the moment and the love you share."
+  },
+  {
+    "Category": "Couples",
+    "Type": "Truth",
+    "Truth / Dare": "What is something you've always wanted to do together but haven’t yet?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Dare",
+    "Truth / Dare": "Plan a mini date right now—spend the next minute sharing ideas or dancing together.",
+    "Instructions": "Take one minute to plan a mini date with your partner! Whether it’s discussing ideas for a romantic evening, planning a future activity, or dancing together right there in the room—make it a fun and spontaneous moment!"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Truth",
+    "Truth / Dare": "How does your partner make your life better every day?",
+    "Instructions": "N/A"
+  },
+  {
+    "Category": "Couples",
+    "Type": "Dare",
+    "Truth / Dare": "Express your gratitude by telling them three specific things you appreciate about them.",
+    "Instructions": "Take a moment to tell your partner three specific things you truly appreciate about them. It could be their kindness, their humor, or the way they make you feel loved. Speak from the heart and let them know how much they mean to you."
+  }
+]
